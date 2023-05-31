@@ -1,0 +1,32 @@
+body{
+    margin: auto;
+    padding: 100px 0px;
+    background-color:hsl(212, 45%, 89%) ;
+    height: 100vh;
+}
+.qr-box{
+    text-align: center;
+    background-color:hsl(0, 0%, 100%);
+    border-radius: 15px;
+    width: 330px;
+    margin: auto;
+}
+img{
+    border-radius: 10px;
+    width: 300px;
+    margin: 15px;
+}
+p{
+    font-family: 'Outfit', sans-serif;
+    margin: 5px;
+}
+.main-p{
+    font-weight: 700;
+    font-size: 23px;
+    padding: 0px 19px 0px 19px;
+}
+.tagline-p{
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    padding: 16px 19px 44px 19px;
+}
